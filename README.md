@@ -123,3 +123,15 @@ Feel free to fork, customize, or contribute.
 
 ---
 
+## 📸 Screenshots
+
+### 💻 Main Interface
+
+![MemoryCleaner UI](https://github.com/user-attachments/assets/ed52f0df-e53d-4c8e-8812-8c3a5610b47b)
+
+---
+
+### 🧼 After Deep Clean (popup result)
+
+![MemoryCleaner Result](https://github.com/user-attachments/assets/4beeb02a-ad3d-4864-a8f4-f7adedf967ce)
+
