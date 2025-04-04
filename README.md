@@ -82,6 +82,11 @@ No installation required. Just run `MemoryCleaner.exe`.
 
 ---
 
+## 💻 Open Source
+
+This project is fully open source.  
+🔗 [Click here to view the full source code](https://github.com/giudiceqq/MemoryCleaner-Source)
+
 ## 💡 Technologies Used
 
 - C++17
